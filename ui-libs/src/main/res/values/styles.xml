@@ -1,0 +1,17 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <style name="CalendarViewHeader">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">#ffffff</item> <!--white-->
+    </style>
+
+    <style name="CalendarViewDate">
+        <item name="android:textSize">17sp</item>
+        <item name="android:textColor">@color/mcv_text_date_light</item>
+    </style>
+
+    <style name="CalendarViewWeekDay">
+        <item name="android:textSize">17sp</item>
+        <item name="android:textColor">#ff000000</item> <!--black-->
+    </style>
+</resources>

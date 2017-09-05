@@ -26,9 +26,7 @@ import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
-import com.henong.android.core.ApplicationType;
-import com.henong.android.core.NDBApplication;
-import com.henong.android.core.R;
+import com.henong.android.ui.R;
 import com.henong.android.widget.calendarview.materialcalendarview.format.ArrayWeekDayFormatter;
 import com.henong.android.widget.calendarview.materialcalendarview.format.DateFormatTitleFormatter;
 import com.henong.android.widget.calendarview.materialcalendarview.format.DayFormatter;
