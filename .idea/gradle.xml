@@ -10,6 +10,7 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/SelectMultiImage" />
             <option value="$PROJECT_DIR$/ui-libs" />
+            <option value="$PROJECT_DIR$/vip-calendarview" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

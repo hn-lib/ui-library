@@ -1,1 +1,1 @@
-include ':ui-libs', ':SelectMultiImage'
+include ':ui-libs', ':SelectMultiImage', ':vip-calendarview'
