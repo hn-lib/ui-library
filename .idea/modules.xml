@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/SelectMultiImage/SelectMultiImage.iml" filepath="$PROJECT_DIR$/SelectMultiImage/SelectMultiImage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib_ui_henong/lib_ui_henong.iml" filepath="$PROJECT_DIR$/lib_ui_henong/lib_ui_henong.iml" />
       <module fileurl="file://$PROJECT_DIR$/srclibs.iml" filepath="$PROJECT_DIR$/srclibs.iml" />
       <module fileurl="file://$PROJECT_DIR$/ui-libs/ui-libs.iml" filepath="$PROJECT_DIR$/ui-libs/ui-libs.iml" />
     </modules>

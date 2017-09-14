@@ -9,6 +9,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/SelectMultiImage" />
+            <option value="$PROJECT_DIR$/lib_ui_henong" />
             <option value="$PROJECT_DIR$/ui-libs" />
           </set>
         </option>
