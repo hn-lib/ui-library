@@ -1,1 +1,1 @@
-include ':ui-libs', ':SelectMultiImage', ':lib_ui_henong'
+include ':ui-libs', ':SelectMultiImage', ':vip-calendarview', ':lib_ui_henong'
