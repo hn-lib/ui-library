@@ -7,7 +7,6 @@
       <module fileurl="file://$PROJECT_DIR$/srclibs.iml" filepath="$PROJECT_DIR$/srclibs.iml" />
       <module fileurl="file://$PROJECT_DIR$/ui-libs/ui-libs.iml" filepath="$PROJECT_DIR$/ui-libs/ui-libs.iml" />
       <module fileurl="file://$PROJECT_DIR$/vip-calendarview/vip-calendarview.iml" filepath="$PROJECT_DIR$/vip-calendarview/vip-calendarview.iml" />
-      <module fileurl="file://$PROJECT_DIR$/vip-calendarview/vip-calendarview.iml" filepath="$PROJECT_DIR$/vip-calendarview/vip-calendarview.iml" />
     </modules>
   </component>
 </project>
